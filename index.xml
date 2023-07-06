@@ -6,7 +6,16 @@
     <description>Recent content in welcome on da blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 27 May 2023 19:17:49 -0400</lastBuildDate><atom:link href="https://tokisuno.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jun 2023 08:59:41 -0400</lastBuildDate><atom:link href="https://tokisuno.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bloat</title>
+      <link>https://tokisuno.github.io/posts/bloat/</link>
+      <pubDate>Thu, 22 Jun 2023 08:59:41 -0400</pubDate>
+      
+      <guid>https://tokisuno.github.io/posts/bloat/</guid>
+      <description>the world is bloated I didn&amp;rsquo;t really care to pay attention to this for the longest time. However, since moving over to Linux, I&amp;rsquo;ve become more aware on what I would consider to be bloat. This doesn&amp;rsquo;t just apply to using Linux. This applies to all OSes around the world, running any web-browser available. The web is bloated, and it&amp;rsquo;s really annoying. But what does it mean when a website is bloated?</description>
+    </item>
+    
     <item>
       <title>Scattered Life</title>
       <link>https://tokisuno.github.io/posts/ruined_life/</link>
