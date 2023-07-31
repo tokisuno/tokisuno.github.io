@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tokisuno.github.io/posts/bloat/</loc>
-    <lastmod>2023-06-22T08:59:41-04:00</lastmod>
+    <loc>https://tokisuno.github.io/posts/friends/</loc>
+    <lastmod>2023-07-31T09:20:36-04:00</lastmod>
   </url><url>
     <loc>https://tokisuno.github.io/posts/</loc>
-    <lastmod>2023-06-22T08:59:41-04:00</lastmod>
+    <lastmod>2023-07-31T09:20:36-04:00</lastmod>
   </url><url>
     <loc>https://tokisuno.github.io/</loc>
+    <lastmod>2023-07-31T09:20:36-04:00</lastmod>
+  </url><url>
+    <loc>https://tokisuno.github.io/posts/bloat/</loc>
     <lastmod>2023-06-22T08:59:41-04:00</lastmod>
   </url><url>
     <loc>https://tokisuno.github.io/posts/ruined_life/</loc>
