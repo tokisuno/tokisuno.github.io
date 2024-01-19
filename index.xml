@@ -6,8 +6,22 @@
     <description>Recent content in bienvenido cabros on da blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 03 Jan 2024 13:24:02 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 14:40:33 -0500</lastBuildDate>
     <atom:link href="https://tokisuno.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I am learning Emacs</title>
+      <link>https://tokisuno.github.io/posts/emacs/</link>
+      <pubDate>Fri, 19 Jan 2024 14:40:33 -0500</pubDate>
+      <guid>https://tokisuno.github.io/posts/emacs/</guid>
+      <description>Introduction This may sound like the most sadistic thing to do, but I am going to be full-committing to Emacs starting next week. My philosophy with studying has been going under changes as of recent, and I think it is time for me to actually bite the bullet and learn Emacs&#xA;Philosophy behind the switch Now all of this isn&amp;rsquo;t to say that I think Emacs is the perfect tool for me, but Emacs is a tool that I&amp;rsquo;ve been wanting to learn for some time but haven&amp;rsquo;t given it a chance.</description>
+    </item>
+    <item>
+      <title>Weekly Blog Posts &#43; OCD</title>
+      <link>https://tokisuno.github.io/posts/weekly/</link>
+      <pubDate>Sun, 14 Jan 2024 09:34:11 -0500</pubDate>
+      <guid>https://tokisuno.github.io/posts/weekly/</guid>
+      <description>Introduction Something sparked in my brain. Although I don&amp;rsquo;t make basically any content on YouTube at the moment, I have a lot of scripts that I have lying around that after a few minor tweaks, will be good to be recorded. With that being said, I&amp;rsquo;ve been saying that for almost a year now and last year I really didn&amp;rsquo;t pump out as much as I wanted to. So to combat that, I will continue not uploading that much and make weekly blog posts!</description>
+    </item>
     <item>
       <title>New Year Resolutions</title>
       <link>https://tokisuno.github.io/posts/newyear/</link>
