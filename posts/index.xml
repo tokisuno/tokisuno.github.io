@@ -6,8 +6,15 @@
     <description>Recent content in Posts on da blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 14 Jan 2024 09:34:11 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 09:20:53 -0500</lastBuildDate>
     <atom:link href="https://tokisuno.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whoops</title>
+      <link>https://tokisuno.github.io/posts/whoops/</link>
+      <pubDate>Sat, 09 Mar 2024 09:20:53 -0500</pubDate>
+      <guid>https://tokisuno.github.io/posts/whoops/</guid>
+      <description>So&amp;hellip; I did say that I was going to do weekly posts, and I am back to say that I&amp;rsquo;m going back to doing those. When I initially said that, I was going through a lot of personal stuff and didn&amp;rsquo;t want to figure out how my git repos actually worked, so I mental boomed and didn&amp;rsquo;t post to here for a hot minute. It turns out all I had to do was switch branches in my public repo, and then push new commits, and now everything is fine.</description>
+    </item>
     <item>
       <title>Weekly Blog Posts &#43; OCD</title>
       <link>https://tokisuno.github.io/posts/weekly/</link>
