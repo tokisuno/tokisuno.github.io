@@ -1,26 +1,27 @@
 body {
-  background: #d1d1d1;
-  max-width: 800px;
+  background: #EEEEEE;
+  max-width: 45em;
   margin: auto;
   padding: 1em;
-  line-height: 1.5;
+  line-height: 1.45;
 }
 
 /* header and footer areas */
-.menu { padding: 0; }
+.menu { padding: 2px; }
 .menu li { display: inline-block; }
 .article-meta, .menu a {
+  font-size: 1.1em;
   text-decoration: none;
   /* background: #eee; */
-  padding: 5px;
+  padding: 1px;
   /* border-radius: 5px; */
 }
 .menu, .article-meta, footer { text-align: center; }
 .title { font-size: 1.1em; }
 footer a { text-decoration: none; }
 hr {
-  border-style: dashed solid;
-  color: #ddd;
+  border-style: dashed;
+  color: #CCCCCC;
 }
 
 /* code */
