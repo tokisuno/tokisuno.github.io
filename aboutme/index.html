@@ -1,43 +1,84 @@
 <!DOCTYPE html>
 <html lang="en-ca">
-
-<link rel="alternate"
-      type="application/rss+xml"
-      href="https://tokisuno.github.io//index.xml"
-      title="toki blog">
   <head>
-    
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>About me | toki blog</title>
-    <link rel="alternate" type="application/rss+xml" href="https://tokisuno.github.io//feed.xml" title="toki blog">
+    <meta name="description" content="">
+    <title>About me | home</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
     
+    <header>
+
+  <nav>
+    <ul>
+      
+      
+      <li class="pull-left ">
+        <a href="https://tokisuno.github.io/">~/home</a>
+      </li>
+      
+      
+      <li class="pull-left ">
+        <a href="/categories/">~/categories</a>
+      </li>
+      
+      
+      <li class="pull-left ">
+        <a href="/tags/">~/tags</a>
+      </li>
+      
+
+      
+      
+      <li class="pull-right">
+        <a href="/aboutme/">~/about</a>
+      </li>
+      
+      
+      <li class="pull-right">
+        <a href="/equip/">~/equipment</a>
+      </li>
+      
+      
+      <li class="pull-right">
+        <a href="/feed.xml">~/subscribe</a>
+      </li>
+      
+
+    </ul>
+  </nav>
+</header>
+
   </head>
 
   <body>
-    <nav>
-    <ul class="menu">
-      
-      <li><a href="/">/home/</a></li>
-      
-      <li><a href="/aboutme/">/about/</a></li>
-      
-      <li><a href="/equip/">/equipment/</a></li>
-      
-    </ul>
-    <hr/>
-    </nav>
+    <br/>
 
 <div class="article-meta">
 <h1><span class="title">About me</span></h1>
 
 
+<p class="terms">
+  
+  
+  
+  
+  
+</p>
 </div>
 
-<main>
-<h2 id="heading">:)</h2>
+
+
+<div class="content-wrapper">
+  <main>
+    <h2 id="heading">:)</h2>
 <p>Many of you know me as tokisuno, but I also go by Lucas. I am a 22 year old content creator studying linguistics pursuing a masters degree who makes lifestyle/improvement content. I also make videos on tech and other topics I am interested in.</p>
 <h2 id="faq">FAQ</h2>
 <ul>
@@ -62,15 +103,41 @@
 <li><a href="https://osu.ppy.sh/u/tokisuno">osu!</a></li>
 </ul>
 
-</main>
+    <a href="/"> >> Home</a>
+  </main>
+</div>
+    <footer>
+      
+<script>
+(function() {
+  function center_el(tagName) {
+    var tags = document.getElementsByTagName(tagName), i, tag;
+    for (i = 0; i < tags.length; i++) {
+      tag = tags[i];
+      var parent = tag.parentElement;
+      
+      if (parent.childNodes.length === 1) {
+        
+        if (parent.nodeName === 'A') {
+          parent = parent.parentElement;
+          if (parent.childNodes.length != 1) continue;
+        }
+        if (parent.nodeName === 'P') parent.style.textAlign = 'center';
+      }
+    }
+  }
+  var tagNames = ['img', 'embed', 'object'];
+  for (var i = 0; i < tagNames.length; i++) {
+    center_el(tagNames[i]);
+  }
+})();
+</script>
 
-  <footer>
-  
-  
-  <hr/>
-  <a href="https://youtube.com/tokisuno">YouTube</a> | <a href="https://www.goodreads.com/user/show/146547946-tokisuno">Goodreads</a>  | <a href="https://tokisuno.rocks/feed.xml">RSS</a>
-  
-  </footer>
+      
+      <hr/>
+      <a href="https://youtube.com/tokisuno">YouTube</a> | <a href="https://www.goodreads.com/user/show/146547946-tokisuno">Goodreads</a>
+      
+    </footer>
   </body>
 </html>
 

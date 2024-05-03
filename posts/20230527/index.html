@@ -1,43 +1,88 @@
 <!DOCTYPE html>
 <html lang="en-ca">
-
-<link rel="alternate"
-      type="application/rss+xml"
-      href="https://tokisuno.github.io//index.xml"
-      title="toki blog">
   <head>
-    
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Scattered Life | toki blog</title>
-    <link rel="alternate" type="application/rss+xml" href="https://tokisuno.github.io//feed.xml" title="toki blog">
+    <meta name="description" content="">
+    <title>Scattered Life | home</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
     
+    <header>
+
+  <nav>
+    <ul>
+      
+      
+      <li class="pull-left ">
+        <a href="https://tokisuno.github.io/">~/home</a>
+      </li>
+      
+      
+      <li class="pull-left ">
+        <a href="/categories/">~/categories</a>
+      </li>
+      
+      
+      <li class="pull-left ">
+        <a href="/tags/">~/tags</a>
+      </li>
+      
+
+      
+      
+      <li class="pull-right">
+        <a href="/aboutme/">~/about</a>
+      </li>
+      
+      
+      <li class="pull-right">
+        <a href="/equip/">~/equipment</a>
+      </li>
+      
+      
+      <li class="pull-right">
+        <a href="/feed.xml">~/subscribe</a>
+      </li>
+      
+
+    </ul>
+  </nav>
+</header>
+
   </head>
 
   <body>
-    <nav>
-    <ul class="menu">
-      
-      <li><a href="/">/home/</a></li>
-      
-      <li><a href="/aboutme/">/about/</a></li>
-      
-      <li><a href="/equip/">/equipment/</a></li>
-      
-    </ul>
-    <hr/>
-    </nav>
+    <br/>
 
 <div class="article-meta">
 <h1><span class="title">Scattered Life</span></h1>
 
 <h2 class="date">2023/05/27</h2>
+<p class="terms">
+  
+  
+  Categories: <a href="/categories/personal">personal</a> 
+  
+  
+  
+  Tags: <a href="/tags/mental-health">mental health</a> <a href="/tags/tech">tech</a> 
+  
+  
+</p>
 </div>
 
-<main>
-<h1 id="introduction">introduction</h1>
+
+
+<div class="content-wrapper">
+  <main>
+    <h1 id="introduction">introduction</h1>
 <p>It is pretty obvious that I love tech. I love creating, I love tinkering with things, I love making things, etc. It&rsquo;s just been a part of my life for as long as I can remember. I didn&rsquo;t really think much of it until last where, when I realized how much tech has evolved within my short life, and how much of an impact it has made on me. It also made me realize how much time it consumed and how obsessed I was with it. It wasn&rsquo;t just tech. It spread to social media and latched onto my brain like some sort of parasite. The issue isn&rsquo;t necessarily with social media, rather with the relationship I had with it. It started with me going on YouTube a lot, refreshing my home page and waiting for someone&rsquo;s new video to drop, or going down some sort of rabbit hole. This in turn created horrible habits including chronic cell phone use and severe sleep deprivation.</p>
 <p><em>&ldquo;So what&rsquo;s the problem? I live like this and it&rsquo;s fine for the most part&rdquo;</em>, is what some may be asking themselves. This lifestyle I was leading was causing me a lot of stress. I was really anxious all the time, and I couldn&rsquo;t stop thinking about what people were saying, what they were saying about me, and what others were saying about each other. I thought it was good being so connected, but over time I realized that there was no point to living a life as such. I wasn&rsquo;t doing anything productive, and drama moves so fast in the landscape of the internet that none of it matters come time 1-2 weeks later.</p>
 <p>The biggest problem was I was <strong>content</strong> with who I was, because it was comfortable. It was what I grew up with. I was content with the chronically online person I was becoming, and I hate that. I hate that it took me so long to open my eyes and realize how damaging this was to my life.</p>
@@ -53,15 +98,41 @@
 <p>I remember being in Grade 7, sitting down with my friend Eric at lunch. At the time I was really into MCSG (Minecraft Survival Games. If you remember, you&rsquo;re a real one), and a lot of the YouTubers I used to watch were getting into Twitter. I knew what Twitter was already. I had known about it probably since its inception, since my Dad was an early adopter. I decided on that day to &ldquo;become addicted to Twitter&rdquo;. Why did I decide this? I literally have 0 fucking idea, and I even remember saying that I was going to become a &ldquo;Twitter Addict&rdquo;.</p>
 <p>From there, I would become a chronic user of the app for about 5-6 years before ultimately abandoning it. Before I get anyone messaging me saying &ldquo;but lucas! you still have a twitter account that you have tweeted and liked stuff from recently!&rdquo;. I use Twitter maybe monthly (or less than) when there&rsquo;s a major melee tournament going on. Smash mainly lives on Twitter, and I get linked tweets that I sometimes interact with if I am logged in. It isn&rsquo;t a service I am actively trying to use, nor avoid. It&rsquo;s just nothing to me now, and I am glad.</p>
 
-</main>
+    <a href="/"> >> Home</a>
+  </main>
+</div>
+    <footer>
+      
+<script>
+(function() {
+  function center_el(tagName) {
+    var tags = document.getElementsByTagName(tagName), i, tag;
+    for (i = 0; i < tags.length; i++) {
+      tag = tags[i];
+      var parent = tag.parentElement;
+      
+      if (parent.childNodes.length === 1) {
+        
+        if (parent.nodeName === 'A') {
+          parent = parent.parentElement;
+          if (parent.childNodes.length != 1) continue;
+        }
+        if (parent.nodeName === 'P') parent.style.textAlign = 'center';
+      }
+    }
+  }
+  var tagNames = ['img', 'embed', 'object'];
+  for (var i = 0; i < tagNames.length; i++) {
+    center_el(tagNames[i]);
+  }
+})();
+</script>
 
-  <footer>
-  
-  
-  <hr/>
-  <a href="https://youtube.com/tokisuno">YouTube</a> | <a href="https://www.goodreads.com/user/show/146547946-tokisuno">Goodreads</a>  | <a href="https://tokisuno.rocks/feed.xml">RSS</a>
-  
-  </footer>
+      
+      <hr/>
+      <a href="https://youtube.com/tokisuno">YouTube</a> | <a href="https://www.goodreads.com/user/show/146547946-tokisuno">Goodreads</a>
+      
+    </footer>
   </body>
 </html>
 

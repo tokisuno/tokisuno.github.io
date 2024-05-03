@@ -1,43 +1,88 @@
 <!DOCTYPE html>
 <html lang="en-ca">
-
-<link rel="alternate"
-      type="application/rss+xml"
-      href="https://tokisuno.github.io//index.xml"
-      title="toki blog">
   <head>
-    
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bloat | toki blog</title>
-    <link rel="alternate" type="application/rss+xml" href="https://tokisuno.github.io//feed.xml" title="toki blog">
+    <meta name="description" content="">
+    <title>Bloat | home</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
     
+    <header>
+
+  <nav>
+    <ul>
+      
+      
+      <li class="pull-left ">
+        <a href="https://tokisuno.github.io/">~/home</a>
+      </li>
+      
+      
+      <li class="pull-left ">
+        <a href="/categories/">~/categories</a>
+      </li>
+      
+      
+      <li class="pull-left ">
+        <a href="/tags/">~/tags</a>
+      </li>
+      
+
+      
+      
+      <li class="pull-right">
+        <a href="/aboutme/">~/about</a>
+      </li>
+      
+      
+      <li class="pull-right">
+        <a href="/equip/">~/equipment</a>
+      </li>
+      
+      
+      <li class="pull-right">
+        <a href="/feed.xml">~/subscribe</a>
+      </li>
+      
+
+    </ul>
+  </nav>
+</header>
+
   </head>
 
   <body>
-    <nav>
-    <ul class="menu">
-      
-      <li><a href="/">/home/</a></li>
-      
-      <li><a href="/aboutme/">/about/</a></li>
-      
-      <li><a href="/equip/">/equipment/</a></li>
-      
-    </ul>
-    <hr/>
-    </nav>
+    <br/>
 
 <div class="article-meta">
 <h1><span class="title">Bloat</span></h1>
 
 <h2 class="date">2023/06/22</h2>
+<p class="terms">
+  
+  
+  Categories: <a href="/categories/personal">personal</a> 
+  
+  
+  
+  Tags: <a href="/tags/mental-health">mental health</a> <a href="/tags/tech">tech</a> 
+  
+  
+</p>
 </div>
 
-<main>
-<h1 id="the-world-is-bloated">the world is bloated</h1>
+
+
+<div class="content-wrapper">
+  <main>
+    <h1 id="the-world-is-bloated">the world is bloated</h1>
 <p>I didn&rsquo;t really care to pay attention to this for the longest time. However, since moving over to Linux, I&rsquo;ve become more aware on what I would consider to be bloat. This doesn&rsquo;t just apply to using Linux. This applies to all OSes around the world, running any web-browser available. The web is bloated, and it&rsquo;s really annoying. But what does it mean when a website is bloated?</p>
 <h2 id="my-definition">my definition</h2>
 <p>My definition comes from the perspective of someone who&rsquo;s taken some intro to cs classes, has lived mainly with dogwater computers, and is interested in optimizations in any way. This is to say I am not educated, nor do I have a formal background with a bachelors in computer science. I am just a guy who has spent some time in a terminal.</p>
@@ -55,15 +100,41 @@
 <p>The harsh reality is most people typically don&rsquo;t give as shit about their browser performance. They don&rsquo;t care if they lose some time loading something because they don&rsquo;t care about it. This micro-adjustment isn&rsquo;t anything to them, even if they would benefit immensely from it or not. Their priorities are elsewhere. Intrusive ads, bloated libraries, messy codebases, and electron (god i hate electron) are all raising the ceiling for what kind of performance we want out of our machines. This is honestly me ranting about not wanting to upgrade anything, but I think this general idea applies everywhere. It&rsquo;s like a sneakier version of planned obsolescence. We use websites more than anything in our day-to-day lives, and the heavier websites get, the sooner the days of your devices being labelled as &ldquo;obsolete&rdquo; arrive.</p>
 <p>As far as I know, there&rsquo;s no real way around this, but if you have an idea then feel free to lmk.</p>
 
-</main>
+    <a href="/"> >> Home</a>
+  </main>
+</div>
+    <footer>
+      
+<script>
+(function() {
+  function center_el(tagName) {
+    var tags = document.getElementsByTagName(tagName), i, tag;
+    for (i = 0; i < tags.length; i++) {
+      tag = tags[i];
+      var parent = tag.parentElement;
+      
+      if (parent.childNodes.length === 1) {
+        
+        if (parent.nodeName === 'A') {
+          parent = parent.parentElement;
+          if (parent.childNodes.length != 1) continue;
+        }
+        if (parent.nodeName === 'P') parent.style.textAlign = 'center';
+      }
+    }
+  }
+  var tagNames = ['img', 'embed', 'object'];
+  for (var i = 0; i < tagNames.length; i++) {
+    center_el(tagNames[i]);
+  }
+})();
+</script>
 
-  <footer>
-  
-  
-  <hr/>
-  <a href="https://youtube.com/tokisuno">YouTube</a> | <a href="https://www.goodreads.com/user/show/146547946-tokisuno">Goodreads</a>  | <a href="https://tokisuno.rocks/feed.xml">RSS</a>
-  
-  </footer>
+      
+      <hr/>
+      <a href="https://youtube.com/tokisuno">YouTube</a> | <a href="https://www.goodreads.com/user/show/146547946-tokisuno">Goodreads</a>
+      
+    </footer>
   </body>
 </html>
 
