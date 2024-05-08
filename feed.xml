@@ -6,8 +6,15 @@
     <description>Recent content in Welcome! on home</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 03 May 2024 09:25:54 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:14:32 -0400</lastBuildDate>
     <atom:link href="https://tokisuno.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Integrating Zotero with Telescope.nvim</title>
+      <link>https://tokisuno.github.io/posts/zotero-telescope/</link>
+      <pubDate>Wed, 08 May 2024 09:14:32 -0400</pubDate>
+      <guid>https://tokisuno.github.io/posts/zotero-telescope/</guid>
+      <description>Preface This isn&amp;rsquo;t an in-depth guide on how to use Neovim + LaTeX with Zotero integration. This is my explanation of how I set it up, how I sync my citations, and so-on. I will be writing a more in-depth guide in the future regarding this, but that post will come in due time.&#xA;Introduction Zotero is really sick. I love Zotero. If there&amp;rsquo;s anything that I can attribute to making my academic life easier, it&amp;rsquo;s Zotero.</description>
+    </item>
     <item>
       <title>Why I don&#39;t upload much</title>
       <link>https://tokisuno.github.io/posts/20240503/</link>
