@@ -6,8 +6,15 @@
     <description>Recent content in Posts on home</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 08 May 2024 09:14:32 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 09:30:58 -0400</lastBuildDate>
     <atom:link href="https://tokisuno.github.io/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 Daily Habits for 2024</title>
+      <link>https://tokisuno.github.io/posts/20240511/</link>
+      <pubDate>Sat, 11 May 2024 09:30:58 -0400</pubDate>
+      <guid>https://tokisuno.github.io/posts/20240511/</guid>
+      <description>Introduction After reading &amp;ldquo;The Inner Game of Tennis&amp;rdquo; and &amp;ldquo;Atomic Habits&amp;rdquo; for the first time, I started trusting myself more than ever before. The results came with it too, as I was able to perform well and improve in anything I put my mind to at a rate I had never experienced before. Then, life hit and slowly but surely to mask my true feelings, I started falling back into old habits.</description>
+    </item>
     <item>
       <title>Integrating Zotero with Telescope.nvim</title>
       <link>https://tokisuno.github.io/posts/zotero-telescope/</link>
