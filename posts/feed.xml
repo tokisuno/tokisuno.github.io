@@ -6,8 +6,15 @@
     <description>Recent content in Posts on home</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 25 May 2024 09:52:22 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 10:28:32 -0400</lastBuildDate>
     <atom:link href="https://tokisuno.github.io/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Announcement: Changes for the future</title>
+      <link>https://tokisuno.github.io/posts/20240701/</link>
+      <pubDate>Mon, 01 Jul 2024 10:28:32 -0400</pubDate>
+      <guid>https://tokisuno.github.io/posts/20240701/</guid>
+      <description>Not clickbait (real) There are going to be quite a few changes to the &amp;ldquo;tokisuno&amp;rdquo; brand (which feels weird and cringe to say since I am a small creator), so I wanted to announce some of what to expect in the future. I am not quitting, nor am I removing the blog entirely. I am just shifting the public repo somewhere else so I can use the domain for my portfolio.</description>
+    </item>
     <item>
       <title>ADHD &amp; the bloat of &#34;productivity tools&#34;</title>
       <link>https://tokisuno.github.io/posts/20240525/</link>
