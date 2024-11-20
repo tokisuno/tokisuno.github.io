@@ -1,0 +1,111 @@
+@import url('https://rsms.me/inter/inter.css');
+
+@font-face {
+  font-family: 'Latin Modern';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url('./tex-fonts/LM-regular.woff') format('woff2'),
+    url('./tex-fonts/LM-regular.woff') format('woff'),
+    url('./tex-fonts/LM-regular.woff') format('truetype');
+}
+
+@font-face {
+  font-family: 'Latin Modern';
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+  src: url('./tex-fonts/LM-italic.woff') format('woff2'),
+    url('./tex-fonts/LM-italic.woff') format('woff'),
+    url('./tex-fonts/LM-italic.woff') format('truetype');
+}
+
+@font-face {
+  font-family: 'Latin Modern';
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url('./tex-fonts/LM-bold.woff2') format('woff2'),
+    url('./tex-fonts/LM-bold.woff') format('woff'),
+    url('./tex-fonts/LM-bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Latin Modern';
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap;
+  src: url('./tex-fonts/LM-bold-italic.woff2') format('woff2'),
+    url('./tex-fonts/LM-bold-italic.woff') format('woff'),
+    url('./tex-fonts/LM-bold-italic.ttf') format('truetype');
+}
+/**/
+/* @font-face { */
+/*   font-family: 'Libertinus'; */
+/*   font-style: normal; */
+/*   font-weight: normal; */
+/*   font-display: swap; */
+/*   src: url('./fonts/Libertinus-regular.woff2') format('woff2'); */
+/* } */
+/**/
+/* @font-face { */
+/*   font-family: 'Libertinus'; */
+/*   font-style: italic; */
+/*   font-weight: normal; */
+/*   font-display: swap; */
+/*   src: url('./fonts/Libertinus-italic.woff2') format('woff2'); */
+/* } */
+/**/
+/* @font-face { */
+/*   font-family: 'Libertinus'; */
+/*   font-style: normal; */
+/*   font-weight: bold; */
+/*   font-display: swap; */
+/*   src: url('./fonts/Libertinus-bold.woff2') format('woff2'); */
+/* } */
+/**/
+/* @font-face { */
+/*   font-family: 'Libertinus'; */
+/*   font-style: italic; */
+/*   font-weight: bold; */
+/*   font-display: swap; */
+/*   src: url('./fonts/Libertinus-bold-italic.woff2') format('woff2'); */
+/* } */
+/**/
+/* @font-face { */
+/*   font-family: 'Libertinus'; */
+/*   font-style: normal; */
+/*   font-weight: 600; */
+/*   font-display: swap; */
+/*   src: url('./fonts/Libertinus-semibold.woff2') format('woff2'); */
+/* } */
+/**/
+/* @font-face { */
+/*   font-family: 'Libertinus'; */
+/*   font-style: italic; */
+/*   font-weight: 600; */
+/*   font-display: swap; */
+/*   src: url('./fonts/Libertinus-semibold-italic.woff2') format('woff2'); */
+/* } */
+
+/* html { font-family: */
+/*         'Inter', */
+/*         sans-serif, */
+/*         'Apple Color Emoji', */
+/*         'Segoe UI Emoji', */
+/*         'Segoe UI Symbol'; */
+/*       } */
+/* @supports (font-variation-settings: normal) { */
+/*   html { font-family: */
+/*           'Inter var', */
+/*           sans-serif, */
+/*           'Apple Color Emoji', */
+/*           'Segoe UI Emoji', */
+/*           'Segoe UI Symbol'; */
+/*         } */
+/* } */
+
+code {
+  font-family: ui-monospace, monospace;
+  font-size: 75%;
+}

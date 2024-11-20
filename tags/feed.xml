@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on home</title>
+    <link>https://tokisuno.github.io/tags/</link>
+    <description>Recent content in Tags on home</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 24 Sep 2024 09:27:50 -0400</lastBuildDate>
+    <atom:link href="https://tokisuno.github.io/tags/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>https://tokisuno.github.io/tags/tech/</link>
+      <pubDate>Tue, 24 Sep 2024 09:27:50 -0400</pubDate>
+      <guid>https://tokisuno.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Habits</title>
+      <link>https://tokisuno.github.io/tags/habits/</link>
+      <pubDate>Tue, 20 Aug 2024 07:51:57 -0400</pubDate>
+      <guid>https://tokisuno.github.io/tags/habits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OCD</title>
+      <link>https://tokisuno.github.io/tags/ocd/</link>
+      <pubDate>Wed, 22 May 2024 09:13:24 -0400</pubDate>
+      <guid>https://tokisuno.github.io/tags/ocd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Latex</title>
+      <link>https://tokisuno.github.io/tags/latex/</link>
+      <pubDate>Wed, 08 May 2024 09:14:32 -0400</pubDate>
+      <guid>https://tokisuno.github.io/tags/latex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vim</title>
+      <link>https://tokisuno.github.io/tags/vim/</link>
+      <pubDate>Wed, 08 May 2024 09:14:32 -0400</pubDate>
+      <guid>https://tokisuno.github.io/tags/vim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>https://tokisuno.github.io/tags/mental-health/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://tokisuno.github.io/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Academics</title>
+      <link>https://tokisuno.github.io/tags/academics/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://tokisuno.github.io/tags/academics/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
