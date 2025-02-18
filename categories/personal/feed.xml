@@ -6,8 +6,22 @@
     <description>Recent content in Personal on home</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 09 Feb 2025 12:28:49 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 09:51:22 -0500</lastBuildDate>
     <atom:link href="https://tokisuno.github.io/categories/personal/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I moved back to Tmux &#43; Kitty</title>
+      <link>https://tokisuno.github.io/posts/20250218/</link>
+      <pubDate>Tue, 18 Feb 2025 09:51:22 -0500</pubDate>
+      <guid>https://tokisuno.github.io/posts/20250218/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Title. I moved back to using the kitty terminal with tmux. My experiment with trying to use WezTerm for everything fell short for a couple of reasons that I will outline in this mini post, but the TL;DR is I just don&amp;rsquo;t think my WezTerm configuration was stable enough for my system. The WezTerm muxing was not stable enough for me which led to a lot of headache.&lt;/p&gt;&#xA;&lt;h1 id=&#34;why-i-moved-off&#34;&gt;Why I moved off&lt;/h1&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t know what caused this, but when using WezTerm with its muxer, it has this habit of leaving fragments of old pop-ups behind. Let&amp;rsquo;s say I am programming in Neovim. I use a completion engine which means I have little menus pop up whenever I am writing text. Sometimes when typing, these pop-up windows would leave fragments of themselves behind. If I were to &lt;code&gt;&amp;lt;C-d&amp;gt;zz&lt;/code&gt; quickly, it would hang up and sometimes cause my bar to print twice. The editing experience was overall very stupid for absolutely no reason. I also had issues with input latency. I always felt like my key strokes were a little behind what they should be on WezTerm.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I have Crohn&#39;s Disease</title>
+      <link>https://tokisuno.github.io/posts/20250216/</link>
+      <pubDate>Sun, 16 Feb 2025 07:11:51 -0500</pubDate>
+      <guid>https://tokisuno.github.io/posts/20250216/</guid>
+      <description>&lt;h1 id=&#34;the-title-doesnt-lie&#34;&gt;The title doesn&amp;rsquo;t lie&lt;/h1&gt;&#xA;&lt;p&gt;A bit over a year ago I went rock climbing for the first time, and suffered a pretty annoying concussion. I say it was annoying because I felt pretty find afterwards aside from the brain swelling sending mixed signals to different parts of my body. But I was okay-ish. I have diagnosed OCD and part of my OCD is an increased awareness of my bowels. I am hyper-aware of what goes on down there and it has led to lots of inconveniences in my life. I did go through a stint of IBS at one point a few years ago due to my diet, but that&amp;rsquo;s been long gone.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Happy 2025 ~ I already switched off DWM</title>
       <link>https://tokisuno.github.io/posts/20250209/</link>
