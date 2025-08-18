@@ -7,14 +7,50 @@
   flex-wrap: wrap;
 }
 
+#time {
+  font-size: 1rem;
+  font-style: italic;
+}
+
 .content {
+  font-size: 1.2rem;
   display: flex;
   flex-direction: column;
   text-align: center;
 }
 
 .content > * {
-  /* padding: 10px; */
   margin: 5px;
 }
 
+a.blog:link {
+  color: black;
+}
+
+a.blog:visited {
+  color: black;
+}
+
+a.blog:hover {
+  color: red;
+}
+
+.footer {
+  font-size: 16px;
+  background-color: grey;
+  text-align: center;
+  color: white;
+  padding: 3px;
+}
+
+.footer > a:link {
+  color: white
+}
+
+.footer > a:visited {
+  color: white
+}
+
+.footer > a:hover {
+  color: lightblue;
+}
