@@ -4,6 +4,7 @@ import About from './components/About.jsx';
 import Contact from './components/Contact.jsx';
 import Specs from './components/Specs';
 import Footer from './components/Footer';
+import Nav from './components/Nav';
 
 const App = () => {
   const home = "home";
@@ -39,17 +40,11 @@ const App = () => {
     setCurrentPage(specs);
   }
 
-
   return (
-    <div className="real-root">
-      <div className="container">
-        <button onClick={handleHome}>home</button>
-        <button onClick={handleAbout}>about</button>
-        <button onClick={handleContact}>contact</button>
-        <button onClick={handleSpecs}>specs</button>
-        {renderPage()}
-      </div>
-      <Footer />
+    <div>
+    <Nav home={handleHome} about={handleAbout} contact={handleContact} specs={handleSpecs} />
+    <div className="content"> {renderPage()} </div>
+    <Footer />
     </div>
   )
 }
