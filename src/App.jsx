@@ -2,15 +2,14 @@ import { useState } from 'react';
 import Home from './components/Home';
 import About from './components/About.jsx';
 import Contact from './components/Contact.jsx';
-import Specs from './components/Specs';
-import Footer from './components/Footer';
+import Tech from './components/Tech';
 import Nav from './components/Nav';
 
 const App = () => {
   const home = "home";
   const about = "about";
   const contact = "contact";
-  const specs = "specs";
+  const tech = "tech";
 
   const [currentPage, setCurrentPage] = useState(home);
 
@@ -22,8 +21,8 @@ const App = () => {
         return <About />
       case contact:
         return <Contact />
-      case specs:
-        return <Specs />
+      case tech:
+        return <Tech/>
     }
   }
 
@@ -37,14 +36,13 @@ const App = () => {
     setCurrentPage(about)
   }
   const handleSpecs = () => {
-    setCurrentPage(specs);
+    setCurrentPage(tech);
   }
 
   return (
     <div>
     <Nav home={handleHome} about={handleAbout} contact={handleContact} specs={handleSpecs} />
     <div className="content"> {renderPage()} </div>
-    <Footer />
     </div>
   )
 }

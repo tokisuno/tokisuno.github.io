@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <div className="about">
-      <h1>About me</h1>
+      <h1>toki/about</h1>
       <p>I go by tokisuno online, and I am a content creator from Ontario, Canada. I am 23 years old, graduated with my BA in Linguistics, and am now self-learning web-development while I am unable to work! I make videos on whatever I find interesting, whether it be language learning or a new keyboard I got interested in. I have a lot of interests...</p>
       <h2>Interests</h2>
       <h3>Linguistics/Languages</h3>
@@ -12,6 +12,7 @@ const About = () => {
       <h3>Super Smash Brothers Melee</h3>
       <p>This game has been there for me in all points of my life, and I am grateful for having it. I wouldn't be the person I am today if it wasn't for the happy accident created back on November 21, 2001. For the first few years of me playing Melee, I was terrible. I mean, horrendous. I was the worst of my group of friends, I had very low self confidence, and an ego to push me further into the ground. Even before Melee, I was a terrible rager. I had problems regulating my emotions, and still do to this day (albiet I am not breaking controllers, shrieking at the top of my lungs, or smashing keyboards). I was very toxic, and thought there was a "right way" to play the game -- that is, I thought that I knew the only way to play the game. I have trouble understanding peoples' emotions and perspectives if I haven't been in them myself. Now I can recognise however just how wrong and close-minded I was. As it is with most autistic people, I have a strong sense of justice and what is right, and that too prevented me from really playing at all. Combine that with my undiagnosed ADHD and OCD at the time, and you have a recipe for disaster. It was also really hard to play people in-person because I had no way of going to tournaments, and the online play at the time was TERRIBLE. So once my friends grew tired of the game (and probably of me raging), I quit with them. I would play sometimes online, and I would sometimes practice tech skill to wear myself down before going to sleep, but I largely quit playing. This would have been around 2018</p>
       <p>Then the pandemic hit, and oh boy was that ever a time. I think the best thing the pandemic did for me was bring me Slippi, the best way to play Melee online. I was skeptical at first, because I was scarred by how bad Anthers with FasterMelee frame-buffering was. Once I saw Leffen praising it however, I was like "Okay, Leffen literally complains about everyting. This has to be good". It was that good. I was still very bad at first, but over time I started learning more about myself and how I want to play the game. I read books like "The Inner Game of Tennis", "Atomic Habits", and "Deep Work" which ultimately gave me a really good starting ground for improvement. I am still not a very good player by any means, but this game helped me through some very dark times in my life, and fundamentally changed who I am as a person. I have removed a lot of outside dependencies in order to be able to focus on things I find important, and I make time for those things that are important. This may have never happened had I not found Melee. Special shoutouts to Hamilton SSBM for hosting Hamilton Highgrounds, and the Toronto Melee scene. I love you guys.</p>
+      <br />
     </div>
   )
 }
