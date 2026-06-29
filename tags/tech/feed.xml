@@ -6,15 +6,8 @@
     <description>Recent content in Tech on home</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 07 May 2025 08:23:48 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 10:34:01 -0400</lastBuildDate>
     <atom:link href="https://tokisuno.github.io/blog/tags/tech/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I&#39;m going back to JavaScript</title>
-      <link>https://tokisuno.github.io/blog/posts/20250507/</link>
-      <pubDate>Wed, 07 May 2025 08:23:48 -0400</pubDate>
-      <guid>https://tokisuno.github.io/blog/posts/20250507/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;The title doesn&amp;rsquo;t lie. I am going back to learning JavaScript. I&amp;rsquo;ve spent a long time going through the Ruby path trying to learn Ruby, and I&amp;rsquo;ve come to the conclusion that I really don&amp;rsquo;t care that much at the moment about Rails.&lt;/p&gt;&#xA;&lt;h1 id=&#34;enjoyment-programming&#34;&gt;Enjoyment programming&lt;/h1&gt;&#xA;&lt;p&gt;I honestly haven&amp;rsquo;t enjoyed the Ruby path that much. During TOP foundations and further into the JS path, I really enjoyed making things and seeing the things that I made. It&amp;rsquo;s because we start by learning HTML/CSS/JS and then get to choose what we want to do from there. That&amp;rsquo;s fine and all, but I didn&amp;rsquo;t get nearly as much satisfaction or enjoyment doing the projects in the Ruby path as I was when doing the JavaScript path. There are a lot of things that I do really like about Ruby, but I feel like I really just need JavaScript&amp;rsquo;s ecosystem for the foreseeable future. I was in a relationship for almost a year, and during that time I wanted to have some sort of stability in my very chaotic shitshow of a life, so I thought that I could control that by using a language that is seemingly &amp;ldquo;meant for programmer happiness&amp;rdquo; and stability. I wanted to have some sort of job where I could work from anywhere just maintaining older code and living like a retired old person. But now that the relationship has ended and I am getting further back into programming, I realized that I haven&amp;rsquo;t been enjoying programming in Ruby as much as I thought I was.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>I moved to Fedora &#43; I moved back to Alacritty</title>
       <link>https://tokisuno.github.io/blog/posts/20250425/</link>
@@ -35,13 +28,6 @@
       <pubDate>Sun, 09 Feb 2025 12:28:49 -0500</pubDate>
       <guid>https://tokisuno.github.io/blog/posts/20250209/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;I know that I haven&amp;rsquo;t been the most on-top of my channel and that I say something like this once every couple of months. If I am being completely honest and transparent, my health stuff still isn&amp;rsquo;t super good and comfortable to deal with. Maybe one day I will make a video or a blog post talking about what I&amp;rsquo;ve been going through, and show how I came out of it better than before, but in order to reach that I have to actually improve and get better. This blog post is more meant to get me back into the rhythm of writing posts for both my thoughts and things I don&amp;rsquo;t really want to make videos about. But that aside, let me talk about why I backtracked on a lot of what I said in my most recent video regarding DWM. I also moved off of Alacritty and fully swapped over to a full Lua configuration setup.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Byebye JavaScript, Hello Ruby</title>
-      <link>https://tokisuno.github.io/blog/posts/20240924/</link>
-      <pubDate>Tue, 24 Sep 2024 09:27:50 -0400</pubDate>
-      <guid>https://tokisuno.github.io/blog/posts/20240924/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;For those who follow my channel (idk how you would follow my channel and not be reading this), you would know that I have been going through TheOdinProject&amp;rsquo;s JavaScript path in hopes of becoming either a freelancer or a web developer. I am taking a break from Linguistics for the time being and I think the way TOP structures itself is really useful. I&amp;rsquo;d argue it&amp;rsquo;s the best learning resource for getting into web development. But I had an issue, and that issue was JavaScript. I think JavaScript is a great language, but it isn&amp;rsquo;t opinionated enough. Maybe JavaScript wasn&amp;rsquo;t sticking in my head as much as I&amp;rsquo;d have liked it to, but there was always something off putting. Honestly I&amp;rsquo;d still boil it down to a skill issue since I am new, but I digress. This blog post is about why I am switching from the JavaScript path over to the Ruby one &amp;gt;:)&lt;/p&gt;</description>
     </item>
     <item>
       <title>ADHD &amp; the bloat of &#34;productivity tools&#34;</title>
