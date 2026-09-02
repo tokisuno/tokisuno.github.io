@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 05 Mar 2026 10:43:05 -0500</lastBuildDate>
+			<lastBuildDate>Wed, 02 Sep 2026 16:33:56 -0400</lastBuildDate>
 		
 			<atom:link href="https://tokisuno.github.io/posts/feed.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>For those who use the RSS Link</title>
+				<link>https://tokisuno.github.io/posts/20260902/</link>
+				<pubDate>Wed, 02 Sep 2026 16:33:56 -0400</pubDate>
+				<guid>https://tokisuno.github.io/posts/20260902/</guid>
+				<description>&lt;h1 id=&#34;please-read&#34;&gt;Please read&lt;/h1&gt;&#xA;&lt;p&gt;For those who use the RSS link to use in whatever RSS reader you may use, please remove the /blog/ path from the link.&lt;/p&gt;&#xA;&lt;p&gt;This is the new RSS link: &lt;a href=&#34;https://tokisuno.rocks/feed.xml&#34;&gt;https://tokisuno.rocks/feed.xml&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Thank you and have a good day :p&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Stop taking it out on your teammates: you also aren&#39;t that good</title>
 				<link>https://tokisuno.github.io/posts/20260305/</link>
