@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Weekly on home</title>
-    <link>https://tokisuno.github.io/blog/categories/weekly/</link>
-    <description>Recent content in Weekly on home</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Wed, 05 Nov 2025 11:04:19 -0500</lastBuildDate>
-    <atom:link href="https://tokisuno.github.io/blog/categories/weekly/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Toki Talks - BIG TOKISUNO W</title>
-      <link>https://tokisuno.github.io/blog/posts/20251105/</link>
-      <pubDate>Wed, 05 Nov 2025 11:04:19 -0500</pubDate>
-      <guid>https://tokisuno.github.io/blog/posts/20251105/</guid>
-      <description>&lt;h1 id=&#34;oopsies&#34;&gt;Oopsies&lt;/h1&gt;&#xA;&lt;p&gt;Sorry for not posting for some time without saying anything, but there have been some exciting things going on in my personal life that I&amp;rsquo;ve been working through and saving to share for a later date.&lt;/p&gt;&#xA;&lt;h1 id=&#34;i-have-a-job&#34;&gt;I have a job!&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m not going to get into the specifics of it, but I have a job now! This means I will now be making stable income in order to invest back into content and my future education. It&amp;rsquo;s just a part-time position since, in all honesty, I don&amp;rsquo;t know if my body can handle a full-time position atm. I don&amp;rsquo;t have that physical energy. But now I actually have something to do that&amp;rsquo;s outside of content creation, which I think in turn will end up being really helpful for my future. Now I have something else aside from just sitting at home getting 300 steps a day.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Toki Talks - Relapsed on CS2 Again/I hate humidity</title>
-      <link>https://tokisuno.github.io/blog/posts/20251007/</link>
-      <pubDate>Tue, 07 Oct 2025 11:52:45 -0400</pubDate>
-      <guid>https://tokisuno.github.io/blog/posts/20251007/</guid>
-      <description>&lt;h1 id=&#34;oops&#34;&gt;Oops&lt;/h1&gt;&#xA;&lt;p&gt;It&amp;rsquo;s funny how right after I make my last blog post, I have a massive relapse and wasted a TON of time on gaming. I think I found a new reason to quit however, and it has to do with where I live&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-hate-southern-ontario&#34;&gt;I Hate Southern Ontario&lt;/h2&gt;&#xA;&lt;p&gt;Southern Ontario is a funny place in Canada. We are densely populated, have an insanely high cost of living, an immigration problem, degree mills, the most populated city in the country, and humidity that makes summertime feel like we&amp;rsquo;re living in Hong Kong. When I say it&amp;rsquo;s bad, it&amp;rsquo;s bad. We can have our -10/-20 degree (CELSIUS) winters with extreme cold warnings, WHILE also having 40 degree summers after the humidity kicks in. We don&amp;rsquo;t have the most extreme cold, but somehow we are suffocated by the heat for 3 months of the year.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Toki Talks - Becoming the person I want to be</title>
-      <link>https://tokisuno.github.io/blog/posts/20250902/</link>
-      <pubDate>Tue, 02 Sep 2025 08:27:09 -0400</pubDate>
-      <guid>https://tokisuno.github.io/blog/posts/20250902/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to this week of Toki Talks! This week, we&amp;rsquo;re going to get a little deeper into life.&lt;/p&gt;&#xA;&lt;h1 id=&#34;becoming-the-person-i-want-to-be&#34;&gt;Becoming the person I want to be&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve taken some time to think more about who I am, where I am, and how I want to get there. I&amp;rsquo;ve come to the realization that as I am right now &amp;ndash; although comfortable &amp;ndash; isn&amp;rsquo;t the same person I&amp;rsquo;d want to be in even a year, or two years at that. I don&amp;rsquo;t know if many of you have come to this realization, but it&amp;rsquo;s like experiencing another ego death where I feel like everything is becoming clearer and my life is being put back into perspective for me.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Toki Talks - I abandoned AwesomeWM...</title>
-      <link>https://tokisuno.github.io/blog/posts/20250826/</link>
-      <pubDate>Tue, 26 Aug 2025 09:32:52 -0400</pubDate>
-      <guid>https://tokisuno.github.io/blog/posts/20250826/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to this week&amp;rsquo;s installment of Toki Talks! I know that my video last week was supposed to cement/solidify that I am all about stability and simplicity instead of experimentation. With that being said, I left AwesomeWM.&lt;/p&gt;&#xA;&lt;h1 id=&#34;why-i-left-awesomewm&#34;&gt;Why I left AwesomeWM&amp;hellip;&lt;/h1&gt;&#xA;&lt;p&gt;To be quite honest, Awesome is much more than &amp;ldquo;just a window manager&amp;rdquo;. It&amp;rsquo;s a way of life. I mean this in the sense that the whole window manager feels less like a window manager and more like a customization framework. That&amp;rsquo;s cool and all, but it&amp;rsquo;s done in Lua, and the way that it&amp;rsquo;s implemented is probably really nice if you LIKE writing in Lua, and REALLY want to have total control over your environment. I used Awesome as a better OOTB DWM experience, and I can safely say that it does a good job of doing that.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Toki Talks - Obscure YouTubers I Remember</title>
-      <link>https://tokisuno.github.io/blog/posts/20250819/</link>
-      <pubDate>Tue, 19 Aug 2025 08:31:28 -0400</pubDate>
-      <guid>https://tokisuno.github.io/blog/posts/20250819/</guid>
-      <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome!&lt;/h1&gt;&#xA;&lt;p&gt;Welcome back to another week of Toki Talks! This week, I just want to shout out some old usernames of people I used to know/watch as a child. I hope that this page can be indexed online one day and I can either get in contact with some of lesser-known guys from my childhood, or maybe talk to some people who also watched these growing up :) &lt;em&gt;This isn&amp;rsquo;t an extensive list by any means, as I know there are a lot of people from art communities I used to be a part of that were either exposed, have changed names, have changed genders, and don&amp;rsquo;t want to be mentioned most likely to put their name to rest.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Toki Talks - Distracted by novel ideas</title>
-      <link>https://tokisuno.github.io/blog/posts/20250814/</link>
-      <pubDate>Thu, 14 Aug 2025 11:14:45 -0400</pubDate>
-      <guid>https://tokisuno.github.io/blog/posts/20250814/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome once again to a late iteration of Toki Talks!&lt;/p&gt;&#xA;&lt;h1 id=&#34;i-really-like-things-i-dont-understand&#34;&gt;I really like things I don&amp;rsquo;t understand&lt;/h1&gt;&#xA;&lt;p&gt;I think a lot of people with ADHD can relate to this, but I really like diving into what is novel and interesting to me. If I don&amp;rsquo;t understand, I want to understand it. Even at a surface level, if I cannot make sense of it in my brain, I have to figure out how it works somehow on a fundamental level. This means that I get distracted a lot with other projects and ideas and whatnot. It&amp;rsquo;s like constantly trying to dopamine-max, and it&amp;rsquo;s really ass.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Toki Talks - Time commitment into things that matter</title>
-      <link>https://tokisuno.github.io/blog/posts/20250804/</link>
-      <pubDate>Mon, 04 Aug 2025 13:19:38 -0400</pubDate>
-      <guid>https://tokisuno.github.io/blog/posts/20250804/</guid>
-      <description>&lt;h1 id=&#34;welcome-back&#34;&gt;Welcome back!&lt;/h1&gt;&#xA;&lt;p&gt;Another week, another Toki Talks! This past weekend, I did a lot of reflection on how I have been managing my time, and to say the least I didn&amp;rsquo;t like what I saw in myself.&lt;/p&gt;&#xA;&lt;h1 id=&#34;commitment-to-content-creation--programming&#34;&gt;Commitment to content creation + programming&lt;/h1&gt;&#xA;&lt;p&gt;I realized this past weekend that on average, I was only really taking 20 hours per work-week (Monday → Friday) to study programming. This doesn&amp;rsquo;t really add up considering that I don&amp;rsquo;t have a job and spend all day at time. On top of that. My steam records say that I spend approximately 30 hours a week gaming. Therefore, I am spending more time gaming than programming. Why am I spending more time gaming, something that isn&amp;rsquo;t going to bring more value into my life, instead of practicing and perfecting things that will add value?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Toki Talks - Identity and commitment</title>
-      <link>https://tokisuno.github.io/blog/posts/20250731/</link>
-      <pubDate>Thu, 31 Jul 2025 09:03:47 -0400</pubDate>
-      <guid>https://tokisuno.github.io/blog/posts/20250731/</guid>
-      <description>&lt;h1 id=&#34;welcome-back&#34;&gt;Welcome back!&lt;/h1&gt;&#xA;&lt;p&gt;Welcome back to another Toki Talks! These Toki Talks are supposed to be done on Tuesdays, but I quite frankly couldn&amp;rsquo;t think of anything to write about until now, so better sooner than later!&lt;/p&gt;&#xA;&lt;h1 id=&#34;i-set-very-rigid-concepts-in-my-head-sub-categorization&#34;&gt;I set very rigid &amp;ldquo;concepts&amp;rdquo; in my head (sub-categorization)&lt;/h1&gt;&#xA;&lt;p&gt;I think a big portion of this problem comes from the fact that I love to separate things and create order of things I cannot understand. It&amp;rsquo;s a problem, and it&amp;rsquo;s a fundamentally flawed way of thinking for multiple reasons, but it&amp;rsquo;s not without its upsides because clearly it has shown some success in my life.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Toki Talks - What to do with streaming...</title>
-      <link>https://tokisuno.github.io/blog/posts/20250723/</link>
-      <pubDate>Wed, 23 Jul 2025 04:52:05 -0400</pubDate>
-      <guid>https://tokisuno.github.io/blog/posts/20250723/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome back to another weekly installation of Toki Talks!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve found a routine moreorless that I can stick by and I&amp;rsquo;ve been doing more in terms of programming, but I spend the rest of the day afterwards basically living on autopilot not doing anything at all. I guess this is my wakeup reminder to actually do things that will make me money in the future and dedicate a lot more time towards programming instead of gaming/socializing.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Toki Talks - Happy Canada Day!</title>
-      <link>https://tokisuno.github.io/blog/posts/20250701/</link>
-      <pubDate>Tue, 01 Jul 2025 11:25:42 -0400</pubDate>
-      <guid>https://tokisuno.github.io/blog/posts/20250701/</guid>
-      <description>&lt;h1 id=&#34;introduction--what-is-this&#34;&gt;Introduction :: What is this?&lt;/h1&gt;&#xA;&lt;p&gt;Every Tuesday is now marked down in my calendar for a weekly blog post to keep the creative writing muscles flowing. I haven&amp;rsquo;t been writing much in all honesty, so this is just one way I can keep at this. I am notoriously bad at keeping a rhythm as of recent, but I have to try and change that for the betterment of my life.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Weekly on home</title>
+		<link>https://tokisuno.github.io/categories/weekly/</link>
+		<description>Recent content in Weekly on home</description>
+		<generator>Hugo</generator>
+		<language>en-ca</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 05 Nov 2025 11:04:19 -0500</lastBuildDate>
+		
+			<atom:link href="https://tokisuno.github.io/categories/weekly/feed.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Toki Talks - BIG TOKISUNO W</title>
+				<link>https://tokisuno.github.io/posts/20251105/</link>
+				<pubDate>Wed, 05 Nov 2025 11:04:19 -0500</pubDate>
+				<guid>https://tokisuno.github.io/posts/20251105/</guid>
+				<description>&lt;h1 id=&#34;oopsies&#34;&gt;Oopsies&lt;/h1&gt;&#xA;&lt;p&gt;Sorry for not posting for some time without saying anything, but there have been some exciting things going on in my personal life that I&amp;rsquo;ve been working through and saving to share for a later date.&lt;/p&gt;&#xA;&lt;h1 id=&#34;i-have-a-job&#34;&gt;I have a job!&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m not going to get into the specifics of it, but I have a job now! This means I will now be making stable income in order to invest back into content and my future education. It&amp;rsquo;s just a part-time position since, in all honesty, I don&amp;rsquo;t know if my body can handle a full-time position atm. I don&amp;rsquo;t have that physical energy. But now I actually have something to do that&amp;rsquo;s outside of content creation, which I think in turn will end up being really helpful for my future. Now I have something else aside from just sitting at home getting 300 steps a day.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Toki Talks - Relapsed on CS2 Again/I hate humidity</title>
+				<link>https://tokisuno.github.io/posts/20251007/</link>
+				<pubDate>Tue, 07 Oct 2025 11:52:45 -0400</pubDate>
+				<guid>https://tokisuno.github.io/posts/20251007/</guid>
+				<description>&lt;h1 id=&#34;oops&#34;&gt;Oops&lt;/h1&gt;&#xA;&lt;p&gt;It&amp;rsquo;s funny how right after I make my last blog post, I have a massive relapse and wasted a TON of time on gaming. I think I found a new reason to quit however, and it has to do with where I live&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-hate-southern-ontario&#34;&gt;I Hate Southern Ontario&lt;/h2&gt;&#xA;&lt;p&gt;Southern Ontario is a funny place in Canada. We are densely populated, have an insanely high cost of living, an immigration problem, degree mills, the most populated city in the country, and humidity that makes summertime feel like we&amp;rsquo;re living in Hong Kong. When I say it&amp;rsquo;s bad, it&amp;rsquo;s bad. We can have our -10/-20 degree (CELSIUS) winters with extreme cold warnings, WHILE also having 40 degree summers after the humidity kicks in. We don&amp;rsquo;t have the most extreme cold, but somehow we are suffocated by the heat for 3 months of the year.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Toki Talks - Becoming the person I want to be</title>
+				<link>https://tokisuno.github.io/posts/20250902/</link>
+				<pubDate>Tue, 02 Sep 2025 08:27:09 -0400</pubDate>
+				<guid>https://tokisuno.github.io/posts/20250902/</guid>
+				<description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to this week of Toki Talks! This week, we&amp;rsquo;re going to get a little deeper into life.&lt;/p&gt;&#xA;&lt;h1 id=&#34;becoming-the-person-i-want-to-be&#34;&gt;Becoming the person I want to be&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve taken some time to think more about who I am, where I am, and how I want to get there. I&amp;rsquo;ve come to the realization that as I am right now &amp;ndash; although comfortable &amp;ndash; isn&amp;rsquo;t the same person I&amp;rsquo;d want to be in even a year, or two years at that. I don&amp;rsquo;t know if many of you have come to this realization, but it&amp;rsquo;s like experiencing another ego death where I feel like everything is becoming clearer and my life is being put back into perspective for me.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Toki Talks - I abandoned AwesomeWM...</title>
+				<link>https://tokisuno.github.io/posts/20250826/</link>
+				<pubDate>Tue, 26 Aug 2025 09:32:52 -0400</pubDate>
+				<guid>https://tokisuno.github.io/posts/20250826/</guid>
+				<description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to this week&amp;rsquo;s installment of Toki Talks! I know that my video last week was supposed to cement/solidify that I am all about stability and simplicity instead of experimentation. With that being said, I left AwesomeWM.&lt;/p&gt;&#xA;&lt;h1 id=&#34;why-i-left-awesomewm&#34;&gt;Why I left AwesomeWM&amp;hellip;&lt;/h1&gt;&#xA;&lt;p&gt;To be quite honest, Awesome is much more than &amp;ldquo;just a window manager&amp;rdquo;. It&amp;rsquo;s a way of life. I mean this in the sense that the whole window manager feels less like a window manager and more like a customization framework. That&amp;rsquo;s cool and all, but it&amp;rsquo;s done in Lua, and the way that it&amp;rsquo;s implemented is probably really nice if you LIKE writing in Lua, and REALLY want to have total control over your environment. I used Awesome as a better OOTB DWM experience, and I can safely say that it does a good job of doing that.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Toki Talks - Obscure YouTubers I Remember</title>
+				<link>https://tokisuno.github.io/posts/20250819/</link>
+				<pubDate>Tue, 19 Aug 2025 08:31:28 -0400</pubDate>
+				<guid>https://tokisuno.github.io/posts/20250819/</guid>
+				<description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome!&lt;/h1&gt;&#xA;&lt;p&gt;Welcome back to another week of Toki Talks! This week, I just want to shout out some old usernames of people I used to know/watch as a child. I hope that this page can be indexed online one day and I can either get in contact with some of lesser-known guys from my childhood, or maybe talk to some people who also watched these growing up :) &lt;em&gt;This isn&amp;rsquo;t an extensive list by any means, as I know there are a lot of people from art communities I used to be a part of that were either exposed, have changed names, have changed genders, and don&amp;rsquo;t want to be mentioned most likely to put their name to rest.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Toki Talks - Distracted by novel ideas</title>
+				<link>https://tokisuno.github.io/posts/20250814/</link>
+				<pubDate>Thu, 14 Aug 2025 11:14:45 -0400</pubDate>
+				<guid>https://tokisuno.github.io/posts/20250814/</guid>
+				<description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome once again to a late iteration of Toki Talks!&lt;/p&gt;&#xA;&lt;h1 id=&#34;i-really-like-things-i-dont-understand&#34;&gt;I really like things I don&amp;rsquo;t understand&lt;/h1&gt;&#xA;&lt;p&gt;I think a lot of people with ADHD can relate to this, but I really like diving into what is novel and interesting to me. If I don&amp;rsquo;t understand, I want to understand it. Even at a surface level, if I cannot make sense of it in my brain, I have to figure out how it works somehow on a fundamental level. This means that I get distracted a lot with other projects and ideas and whatnot. It&amp;rsquo;s like constantly trying to dopamine-max, and it&amp;rsquo;s really ass.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Toki Talks - Time commitment into things that matter</title>
+				<link>https://tokisuno.github.io/posts/20250804/</link>
+				<pubDate>Mon, 04 Aug 2025 13:19:38 -0400</pubDate>
+				<guid>https://tokisuno.github.io/posts/20250804/</guid>
+				<description>&lt;h1 id=&#34;welcome-back&#34;&gt;Welcome back!&lt;/h1&gt;&#xA;&lt;p&gt;Another week, another Toki Talks! This past weekend, I did a lot of reflection on how I have been managing my time, and to say the least I didn&amp;rsquo;t like what I saw in myself.&lt;/p&gt;&#xA;&lt;h1 id=&#34;commitment-to-content-creation--programming&#34;&gt;Commitment to content creation + programming&lt;/h1&gt;&#xA;&lt;p&gt;I realized this past weekend that on average, I was only really taking 20 hours per work-week (Monday → Friday) to study programming. This doesn&amp;rsquo;t really add up considering that I don&amp;rsquo;t have a job and spend all day at time. On top of that. My steam records say that I spend approximately 30 hours a week gaming. Therefore, I am spending more time gaming than programming. Why am I spending more time gaming, something that isn&amp;rsquo;t going to bring more value into my life, instead of practicing and perfecting things that will add value?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Toki Talks - Identity and commitment</title>
+				<link>https://tokisuno.github.io/posts/20250731/</link>
+				<pubDate>Thu, 31 Jul 2025 09:03:47 -0400</pubDate>
+				<guid>https://tokisuno.github.io/posts/20250731/</guid>
+				<description>&lt;h1 id=&#34;welcome-back&#34;&gt;Welcome back!&lt;/h1&gt;&#xA;&lt;p&gt;Welcome back to another Toki Talks! These Toki Talks are supposed to be done on Tuesdays, but I quite frankly couldn&amp;rsquo;t think of anything to write about until now, so better sooner than later!&lt;/p&gt;&#xA;&lt;h1 id=&#34;i-set-very-rigid-concepts-in-my-head-sub-categorization&#34;&gt;I set very rigid &amp;ldquo;concepts&amp;rdquo; in my head (sub-categorization)&lt;/h1&gt;&#xA;&lt;p&gt;I think a big portion of this problem comes from the fact that I love to separate things and create order of things I cannot understand. It&amp;rsquo;s a problem, and it&amp;rsquo;s a fundamentally flawed way of thinking for multiple reasons, but it&amp;rsquo;s not without its upsides because clearly it has shown some success in my life.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Toki Talks - What to do with streaming...</title>
+				<link>https://tokisuno.github.io/posts/20250723/</link>
+				<pubDate>Wed, 23 Jul 2025 04:52:05 -0400</pubDate>
+				<guid>https://tokisuno.github.io/posts/20250723/</guid>
+				<description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome back to another weekly installation of Toki Talks!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve found a routine moreorless that I can stick by and I&amp;rsquo;ve been doing more in terms of programming, but I spend the rest of the day afterwards basically living on autopilot not doing anything at all. I guess this is my wakeup reminder to actually do things that will make me money in the future and dedicate a lot more time towards programming instead of gaming/socializing.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Toki Talks - Happy Canada Day!</title>
+				<link>https://tokisuno.github.io/posts/20250701/</link>
+				<pubDate>Tue, 01 Jul 2025 11:25:42 -0400</pubDate>
+				<guid>https://tokisuno.github.io/posts/20250701/</guid>
+				<description>&lt;h1 id=&#34;introduction--what-is-this&#34;&gt;Introduction :: What is this?&lt;/h1&gt;&#xA;&lt;p&gt;Every Tuesday is now marked down in my calendar for a weekly blog post to keep the creative writing muscles flowing. I haven&amp;rsquo;t been writing much in all honesty, so this is just one way I can keep at this. I am notoriously bad at keeping a rhythm as of recent, but I have to try and change that for the betterment of my life.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
